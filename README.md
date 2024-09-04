@@ -1,6 +1,6 @@
-### Data Analysis Roadmap
+### Updated Data Analysis Roadmap with Use Cases in Specific Domains
 
-Here’s a condensed roadmap focused on the **Data Analysis** aspect highlighting the key topics and resources:
+Here’s an enhanced Data Analysis Roadmap, now including **real-world use cases** from different domains to help you apply your skills practically:
 
 ---
 
@@ -67,10 +67,38 @@ Here’s a condensed roadmap focused on the **Data Analysis** aspect highlightin
 - **Courses and Resources**:  
   - [Kaggle's Practical Course on Feature Engineering](https://www.kaggle.com/learn/feature-engineering)  
 
-### 9. Keep Learning and Practicing
+### 9. Domain Specialization and Use Case Practice
+- **Study a Domain**: Choose a domain such as **Financial Services, Retail, Healthcare**, or **Fintech** to specialize in.
+- **Practice Use Cases**: Apply your data analysis skills to real-world problems in your chosen domain.
+
+#### Use Cases by Domain:
+
+1. **Financial Services**:
+   - **Financial Consumer Analysis**: Analyze customer behavior and segmentation using Python for EDA and Power BI for visualization.  
+     - [Project Link](https://lnkd.in/dRtB7Aip)  
+   - **Financial Income Statement Analysis**: Perform income statement analysis using Excel and Power BI for KPI visualization.  
+     - [Project Link](https://lnkd.in/dWHAiQPW)  
+   - **Udemy Financial Courses Analysis**: Analyze data from Udemy financial courses using Python for data preprocessing and Power BI for visualization.  
+     - [Project Link](https://lnkd.in/dgXmug9X)  
+
+2. **Banking Domain**:
+   - **Bank Loan Analysis**: Use SQL and Power BI to analyze loan applications and approvals.  
+     - [Project Link](https://lnkd.in/d44FGnVN)  
+   - **Online Payments Fraud Analysis and Detection**: Build a classification model using Python to detect fraudulent transactions in online payments.  
+     - [Project Link](https://lnkd.in/dRvCGMsy)  
+
+3. **Healthcare Domain**:
+   - **COVID-19 Analysis**: Analyze COVID-19 data using SQL for data querying and insights generation.  
+     - [Project Link](https://lnkd.in/dpzNcpb4)  
+
+4. **HR Department**:
+   - **HR Analytics**: Connect SQL Server with Python using Pyodbc for data extraction and use Power BI for visualizing employee data and performance metrics.  
+     - [Project Link](https://lnkd.in/dhrceq-H)  
+
+### 10. Keep Learning and Practicing
 - **Data Science is Ever-Evolving**: Stay updated with the latest trends, tools, and technologies.  
 - **Participate in Webinars and Workshops**: Many universities and companies host free webinars.
 
 ---
 
-This roadmap highlights essential topics and provides both theoretical learning and practical application resources for a career in data analysis.
+This updated roadmap now includes specific **use cases** that reflect real-world scenarios and projects you can work on to apply your data analysis skills in various domains.
