@@ -15,6 +15,22 @@
 
 ---
 
+<div align="center">
+
+## Want to Join Our Data Analytics Diploma?
+
+### Talk to our team directly on WhatsApp
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20our%20team-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201014556279)
+
+**+20 101 455 6279**
+
+*Ask about enrollment, schedule, fees, mentorship, and the full curriculum — we usually reply within an hour.*
+
+</div>
+
+---
+
 ## About This Roadmap
 
 If you're starting your journey into Data Analysis — or you're already on the path and need a structured way to keep going — this roadmap is for you.
@@ -98,7 +114,7 @@ You don't need a math PhD — you need **descriptive statistics, basic probabili
 
 ### Arabic Content for Descriptive Statistics
 
-- **Z.Analytics** — [Part 1](https://www.youtube.com/watch?v=PEW8MHwINrY&ab_channel=ZAnalytics) · [Part 2](https://www.youtube.com/watch?v=03fgIhcRGwI&ab_channel=ZAnalytics)
+- **Z&#8203;.Analytics** — [Part 1](https://www.youtube.com/watch?v=PEW8MHwINrY&ab_channel=ZAnalytics) · [Part 2](https://www.youtube.com/watch?v=03fgIhcRGwI&ab_channel=ZAnalytics)
 - **Algohary AI** — [Descriptive Statistics Series (Playlist)](https://www.youtube.com/watch?v=8wwPwlueoDs&list=PLtsZ69x5q-X_MJj_iwBwpJaLg_C6JGiWW&ab_channel=ElgoharyAI)
 
 > **Goal of this stage:** Be comfortable reading a histogram, knowing when to use mean vs median, understanding standard deviation, and reading a basic distribution.
@@ -370,8 +386,9 @@ A realistic part-time schedule for a working professional or full-time student.
 - Data Analytics Instructors Manager @ **MEC Academy**
 - Data Analytics Instructor @ **DEBI** & **ITI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-ashour-9467b623a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ashour-9467b623a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoo50)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201014556279-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201014556279)
 
 ---
 
