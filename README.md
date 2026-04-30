@@ -370,7 +370,7 @@ A realistic part-time schedule for a working professional or full-time student.
 - Data Analytics Instructors Manager @ **MEC Academy**
 - Data Analytics Instructor @ **DEBI** & **ITI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ashour/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelrahman-ashour-9467b623a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoo50)
 
 ---
